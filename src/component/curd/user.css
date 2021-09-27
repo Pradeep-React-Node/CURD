@@ -1,0 +1,15 @@
+.form{
+    text-align: center;
+}
+.form h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+#outlined{
+text-decoration: none;
+font-size: large;
+margin-top: 5px;
+margin-bottom: 5px;
+outline: auto;
+}

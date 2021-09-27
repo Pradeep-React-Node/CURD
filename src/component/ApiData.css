@@ -1,0 +1,35 @@
+.Bkt{
+    border: 2px solid black;
+    margin-top: 35px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 20px;
+    
+    }
+    
+    .first_row{
+      display: flex;
+    }
+    .first_row_first_column{
+      margin-left: 120px;
+      padding-top: 30px;
+      font-weight: 800;
+    }
+    .first_row_second_column{
+      margin-left: 10px;
+      padding-top: 30px;
+      font-weight: 800;
+    }
+    .second_row_first_column{
+      margin-left: 120px;
+      padding-top: 30px;
+      font-weight: 800;
+    }
+    .second_row_second_column{
+      margin-left: 10px;
+      padding-top: 30px;
+      font-weight: 800;
+    }
+   
